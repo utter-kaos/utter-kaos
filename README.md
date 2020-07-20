@@ -1,9 +1,5 @@
-- 🔭 I’m currently working on private python projects
+- 🔭 I’m currently working on discord based bots
 - 🌱 I’m currently learning python/js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Java ill ask you to leave
-- 📫 How to reach me: twitter @wdg_cloud
-- 😄 Pronouns: normal person, not a degenerate
+- 📫 How to reach me: [Twitter](https://twitter.com/wdg_clod), [Steam](https://steamcommunity.com/id/Cloud2137), discord: Cloud#4725
 - ⚡ Fun fact: ima weeb
--->
