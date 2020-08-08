@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on discord based bots
+- 🔭 I’m currently working on discord B A S E D bots
 - 🌱 I’m currently learning python/js
 - 💬 Ask me about Java ill ask you to leave
 - 📫 How to reach me: [Twitter](https://twitter.com/wdg_clod), [Steam](https://steamcommunity.com/id/Cloud2137), discord: Cloud#4725
