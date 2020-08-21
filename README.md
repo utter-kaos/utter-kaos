@@ -30,7 +30,7 @@
       </a>
   </div>
     <div class=stats>
-        <img alt=stats1 align=right style="object-fit: none; object-position: 0 -50px;" src=https://github-readme-stats.vercel.app/api?username=Cloud11665&count_private=true&theme=gradient&bg_color=45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF>
+        <img alt=stats1 align=right style="object-fit: none; object-position: 0 -50px;" src=https://github-readme-stats.vercel.app/api?username=Cloud11665&count_private=true&show_icons=true&theme=gradient&bg_color=45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF>
       <h1>Hi, im Cloud.</h1>
       <ul>
         <li>🎓 Im a CompSci student and an aspiring developer</li>
@@ -40,7 +40,7 @@
     </div>
     <div class=langs align=left>
       <a href=https://github.com/Cloud11665>
-        <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud11665&theme=gradient&bg_color=-45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF>
+        <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud11665&theme=gradient&bg_color=-45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&card_width=500>
       </a>
     </div>
 </div>
