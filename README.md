@@ -45,7 +45,7 @@
     <div class=langs align=left>
       <a href=https://github.com/Cloud11665>
         <img
-         src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud11665&theme=gradient&bg_color=-45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&card_width=350>
+         src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud11665&theme=gradient&bg_color=-45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&card_width=375>
       </a>
     </div>
 </div>
