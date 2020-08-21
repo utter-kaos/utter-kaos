@@ -37,9 +37,9 @@
          src=https://github-readme-stats.vercel.app/api?username=Cloud11665&count_private=true&show_icons=true&theme=gradient&bg_color=45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF>
       <h1>Hi, im Cloud.</h1>
       <ul>
-        <li>🎓 Im a CompSci student and an aspiring developer</li>
+        <li>🎓 Im a CS student and an aspiring developer</li>
         <li>📖 Currently learning Javascript, React</li>
-        <li>⚙️ And working on various Python and web projects</li>
+        <li>⚙️ Working on various Python and web projects</li>
       </ul>
     </div>
     <!--<div class=langs align=center>
