@@ -37,9 +37,10 @@
         <li>📖 Currently learning Javascript, React</li>
         <li>⚙️ And working on various Python and web projects</li>
       </ul>
-        <a href=https://github.com/Cloud11665>
-          <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud11665>
-        </a>
     </div>
-  <iframe src=https://github.com/Cloud11665 title=></iframe>
+    <div class=langs align=left>
+      <a href=https://github.com/Cloud11665>
+        <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud11665&theme=gradient&bg_color=-45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF>
+      </a>
+    </div>
 </div>
