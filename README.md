@@ -42,7 +42,7 @@
         <li>⚙️ And working on various Python and web projects</li>
       </ul>
     </div>
-    <div class=langs align=center>
+    <!--<div class=langs align=center>
       <p></p>
       <br>
         <a href=https://github.com/Cloud11665>
@@ -51,5 +51,5 @@
           src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud11665&theme=onedark&layout=default&card_width=600>
         </a>
       </br>
-    </div>
+    </div>-->
 </div>
