@@ -42,10 +42,10 @@
         <li>⚙️ And working on various Python and web projects</li>
       </ul>
     </div>
-    <div class=langs align=left>
+    <div class=langs align=center>
       <a href=https://github.com/Cloud11665>
         <img
-         src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud11665&theme=gradient&bg_color=-45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&card_width=360>
+         src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud11665&theme=onedark&layout=compact&card_width=600>
       </a>
     </div>
 </div>
