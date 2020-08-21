@@ -48,7 +48,7 @@
         <a href=https://github.com/Cloud11665>
           <img
           style="object-fit: none; object-position: 0 25px;"
-          src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud11665&theme=onedark&layout=compact&card_width=600>
+          src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud11665&theme=onedark&layout=default&card_width=600>
         </a>
       </br>
     </div>
