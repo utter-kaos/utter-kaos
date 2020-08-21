@@ -52,10 +52,6 @@
         </a>
       </br>
     </div>-->
-    <MARQUEE bgcolor="#CCCCCC" loop="-1" scrollamount="2" width="100%">Example Marquee</MARQUEE>
 </div>
 <div>
-    <input type="color" id="body" name="body"
-            value="#f6b73c">
-    <label for="body">Body</label>
-</div>
+
