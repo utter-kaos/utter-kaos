@@ -43,10 +43,12 @@
       </ul>
     </div>
     <div class=langs align=center>
-      <a href=https://github.com/Cloud11665>
-        <img
-         style="object-fit: none; object-position: 0 25px;"
-         src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud11665&theme=onedark&layout=compact&card_width=600>
-      </a>
+      <br>
+        <a href=https://github.com/Cloud11665>
+          <img
+          style="object-fit: none; object-position: 0 25px;"
+          src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud11665&theme=onedark&layout=compact&card_width=600>
+        </a>
+      </br>
     </div>
 </div>
