@@ -38,7 +38,7 @@
       <h1>Hi, im Cloud.</h1>
       <ul>
         <li>🎓 Im a CS student and an aspiring developer</li>
-        <li>📖 Currently learning C and ncurses</li>
+        <li>📖 Currently learning C#</li>
         <li>⚙️ Working on various Python and web projects</li>
       </ul>
     </div>
