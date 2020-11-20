@@ -39,7 +39,7 @@
       <ul>
         <li>🎓 Im a CS student and an aspiring developer</li>
         <li>📖 Currently learning C and linux</li>
-        <li>⚙️ Working on multiple Python projects and my <a href=https://sabat.dev>site</a></li>
+        <li>⚙️ Working on small Python projects and my <a href=https://sabat.dev>site</a></li>
       </ul>
     </div>
     <!--<div class=langs align=center>
