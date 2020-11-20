@@ -38,8 +38,8 @@
       <h1>Hi, im Cloud.</h1>
       <ul>
         <li>🎓 Im a CS student and an aspiring developer</li>
-        <li>📖 Currently learning C and machine learning</li>
-        <li>⚙️ Working on various Python projects and my <a href=https://sabat.dev>site</a></li>
+        <li>📖 Currently learning C and linux</li>
+        <li>⚙️ Working on multiple Python projects and my <a href=https://sabat.dev>site</a></li>
       </ul>
     </div>
     <!--<div class=langs align=center>
