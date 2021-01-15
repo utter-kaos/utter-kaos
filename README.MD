@@ -21,6 +21,7 @@
          style="margin-right: 20px; margin-bottom: -10px"
          src=https://img.shields.io/github/followers/Cloud11665?style=social&label=Github&logo=github>
       </a>
+      <!--
       <a href=https://twitter.com/cloud11665>
         <img
          alt=twitter_follow
@@ -28,6 +29,7 @@
          style="margin-right: 20px; margin-bottom: -10px"
          src=https://img.shields.io/twitter/follow/Cloud11665?style=social&label=Twitter&logo=twitter&color=lightgray>
       </a>
+      -->
   </div>
     <div class=stats>
         <img
@@ -52,5 +54,37 @@
         </a>
       </br>
     </div>-->
+<h1>Accounts</h1>
+<ul>
+  <li>
+    Discord:
+    <ul>
+      <li>
+        main: <b>217185563906801665</b> <small><i>(more likely to respond)</i></small>
+      </li>
+      <li>
+        alt: &nbsp;&nbsp;&nbsp;&nbsp;<b>363402327195123712</b> <small><i>(use only if main is banned)</i></small>
+      </li>
+    </ul>
+  </li>
+  <li>
+    Email:
+     <ul>
+      <li>
+        <a href="mailto:cloud11665@protonmail.com"><b>protonmail.com</b></a>
+      </li>
+      <li>
+        <a href="mailto:cloud11665@gmail.com"><b>gmail.com</b></a>
+      </li>
+     </ul>
+  </li>
+  <li>
+    Gab:
+     <ul>
+      <li>
+        <a href="https://gab.com/cloud11665"><b>@cloud11665</b></a>
+      </li>
+     </ul>
+  </li>
+</ul>
 </div>
-<div>
