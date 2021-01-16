@@ -60,10 +60,10 @@
     Discord:
     <ul>
       <li>
-        main: <a href="https://discord.gg/"><b>217185563906801665</b></a> <small><i>(more likely to respond)</i></small>
+        <a href="https://discord.gg/"><b>217185563906801665</b></a> <small><i>(more likely to respond)</i></small>
       </li>
       <li>
-        alt: &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/"><b>363402327195123712</b></a> <small><i>(use only if main is banned)</i></small>
+        <a href="https://discord.gg/"><b>363402327195123712</b></a> <small><i>(use only if main is banned)</i></small>
       </li>
     </ul>
   </li>
