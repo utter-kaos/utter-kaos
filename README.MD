@@ -6,14 +6,14 @@
          align=center
          style="margin-right: 20px; margin-bottom: -10px"
          src=https://komarev.com/ghpvc/?username=Cloud11665&style=flat&color=brightgreen>
-      </a>
+      </a> <!--
       <a href=https://steamcommunity.com/id/Cloud2137>
         <img
          alt=steam
          align=center
          style="margin-right: 20px; margin-bottom: -10px"
          src=https://img.shields.io/static/v1?label=Steam&message=Cloud11665&logo=steam&style=flat=>
-      </a>
+      </a> -->
       <a href=https://github.com/Cloud11665>
         <img
          alt=github_followers
