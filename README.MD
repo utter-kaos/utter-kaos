@@ -88,5 +88,5 @@
   </li>
 </ul>
   <strong>*</strong>
-  <small>My contibution counter is bugged, because i have force pushed after messing with <code>.git/</code></small>
+  <h6><small>My contibution counter is bugged, because i have force pushed after messing with <code>.git/</code></small></h6>
 </div>
