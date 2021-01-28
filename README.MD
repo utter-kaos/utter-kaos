@@ -25,7 +25,6 @@
       -->
     </div>
     <div class=stats>
-        <br/>
         <img alt=stats1 align=right style="object-fit: none; object-position: 0 -50px;" src=https://github-readme-stats.vercel.app/api?username=Cloud11665&count_private=true&show_icons=true&theme=gradient&bg_color=45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF>
         <h1>Hi, im Cloud.</h1>
         <ul>
