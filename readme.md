@@ -38,4 +38,13 @@
         </ul>
     </li>
 </ul>
+<h1>Mirrors</h1>
+<ul>
+    <li>
+        Git:
+        <ul>
+            <li><a href="https://git.sabat.dev"><b><strike>git.sabat.dev</strike></b></a></li>
+        </ul>
+    </li>
+</ul>
 <h6>* <small>My contibution counter is bugged, because i have force pushed after messing with <code>.git/</code></small></h6>
