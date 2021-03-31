@@ -31,12 +31,6 @@
             <li><a href="mailto:cloud11665@gmail.com"><b>gmail.com</b></a></li>
         </ul>
     </li>
-    <li>
-        Gab:
-        <ul>
-            <li><a href="https://gab.com/cloud11665"><b>@cloud11665</b></a></li>
-        </ul>
-    </li>
 </ul>
 <h1>Mirrors</h1>
 <ul>
