@@ -41,4 +41,3 @@
         </ul>
     </li>
 </ul>
-<h6>* <small>My contibution counter is bugged, because i have force pushed after messing with <code>.git/</code></small></h6>
