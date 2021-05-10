@@ -15,6 +15,7 @@
         <li>⚙️ Working on freelance projects and my <a href="https://sabat.dev" title="sabat.dev">site</a></li>
     </ul>
 </div>
+<!--
 <h1>Accounts</h1>
 <ul>
     <li>
@@ -41,3 +42,4 @@
         </ul>
     </li>
 </ul>
+-->
