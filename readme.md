@@ -12,34 +12,7 @@
     <ul>
         <li>🎓 Im a CS student and an aspiring developer</li>
         <li>📖 Currently learning PyTorch and Clojure</li>
-        <li>⚙️ Working on freelance projects and my <a href="https://sabat.dev" title="sabat.dev">site</a></li>
+        <li>⚙️ Working on free software projects and my <a href="https://cld.sh" title="cld.sh">site</a></li>
     </ul>
 </div>
-<!--
-<h1>Accounts</h1>
-<ul>
-    <li>
-        Discord:
-        <ul>
-            <li><a href="https://discord.com/users/217185563906801665"><b>217185563906801665</b></a> <small><i>(more likely to respond)</i></small></li>
-            <li><a href="https://discord.com/users/363402327195123712"><b>363402327195123712</b></a> <small><i>(use only if main is banned)</i></small></li>
-        </ul>
-    </li>
-    <li>
-        Email:
-        <ul>
-            <li><a href="mailto:cloud11665@protonmail.com"><b>protonmail.com</b></a></li>
-            <li><a href="mailto:cloud11665@gmail.com"><b>gmail.com</b></a></li>
-        </ul>
-    </li>
-</ul>
-<h1>Mirrors</h1>
-<ul>
-    <li>
-        Git:
-        <ul>
-            <li><a href="https://git.sabat.dev"><b><strike>git.sabat.dev</strike></b></a></li>
-        </ul>
-    </li>
-</ul>
--->
+
