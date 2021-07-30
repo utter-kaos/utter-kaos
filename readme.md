@@ -11,7 +11,7 @@
     <h1>Hi, im Cloud.</h1>
     <ul>
         <li>🎓 Im a CS student and an aspiring developer</li>
-        <li>📖 Currently learning PyTorch and Clojure</li>
+        <li>📖 Currently learning: nothing tbh...</li>
         <li>⚙️ Working on free software projects and my <a href="https://cld.sh" title="cld.sh">site</a></li>
     </ul>
 </div>
