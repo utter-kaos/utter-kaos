@@ -11,7 +11,7 @@
     <h1>Hi, im Cloud.</h1>
     <ul>
         <li>🎓 I'm a foss contributor and a CS student</li>
-        <li>💼 Currently working on freelancing projects</li>
+        <li>💼 Currently working as a python freelancer</li>
         <li>⚙️ Working on {insert latest commit repo name}</li>
     </ul>
 </div>
