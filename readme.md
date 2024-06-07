@@ -1,10 +1,4 @@
-<div align="left">
-    <a href="https://github.com/Cloud11665">
-        <img alt="profile views" align="center" src="https://komarev.com/ghpvc/?username=Cloud11665&style=flat&color=brightgreen">
-    </a>
-    <a href="https://github.com/Cloud11665">
-        <img alt="github followers" align="center" src="https://img.shields.io/github/followers/Cloud11665?style=social&label=Github&logo=github">
-    </a>
-</div>
 
-
+```math
+\ce{$\unicode[goombafont; position: fixed; top: 0; left: 0; height: 100%; background: url('https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8');]{x0000}$}
+```
