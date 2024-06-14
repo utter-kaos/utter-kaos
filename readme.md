@@ -1,6 +1,18 @@
-13
-ex-skid 
-becoming cracked n shi things of that nature
-
-```math
-\ce{$\unicode[goombafont; color:blue; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.3; background: url('https://raw.githubusercontent.com/boatu/boatu/master/667143.jpg');]{x0000}$}
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <p>13</p>
+      <p>former skid, learning to program and things of that nature</p>
+      <p>things i wanna get better at/ learn</p>
+      <ul>
+        <li>math</li>
+        <li>competitive programming (currently doing usaco guide)</li>
+        <li>AI/ML</li>
+        <li>also gonna try and do some IoT projects this summer</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/boatu/boatu/master/zLC.gif" alt="Samurai Champloo"/>
+    </td>
+  </tr>
+</table>
